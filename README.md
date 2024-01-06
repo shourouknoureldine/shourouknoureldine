@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hello World, I'm shourouk nour el dine <img align="center" width="7%" alt="wave" src="Assets/wave.gif"></h1>
+<h1 align="center">Hello World, I'm Frederick Abi Chahine <img align="center" width="7%" alt="wave" src="Assets/wave.gif"></h1>
 <h3 align="center"> <img align="center" width="5%" alt="r_arrow" src="Assets/right_arrow.gif">  Seeking & Spilling Knowledge  <img align="center" width="5%" alt="l_arrow" src="Assets/left_arrow.gif"></h3>
 <img align="center" width="100%" height="300" alt="Coding" src="Assets/glitchy_neuron.gif">
 
