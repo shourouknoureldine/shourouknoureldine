@@ -28,10 +28,11 @@
 ### <img align="center" width="5%" alt="network" src="Assets/network.gif"> Reach out & connect with me to share & discuss inovative ideas:
 <hr>
 <p align="left">
-<a href="https://twitter.com/fredabichahine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fredabichahine" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/frederick-abi-chahine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frederick-abi-chahine" height="30" width="40" /></a>
-<a href="https://instagram.com/fred_abichahine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fred_abichahine" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/freddyabichahine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="freddyabichahine" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shourouk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shourouk_noureldine" height="30" width="40" /></a>
+<a href="https://www.instagram.com/chourouknourel?igsh=d3FmaTR2N3JvczBi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shourouk_noureldine" height="30" width="40" /></a>
+<a href="https://www.facebook.com/shourouk.noureldine?mibextid=gik2fB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shourouk_noureldine" height="30" width="40" /></a>
+
+
 </p>
 
 **shourouknoureldine@gmail.com** 
