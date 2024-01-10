@@ -62,9 +62,9 @@
 
 <div style="text-align: center;">
     <div style="display: block; margin-bottom: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=frederick-abichahine&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" style="height: 180px; width: 400px;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=shourouknoureldine&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" style="height: 180px; width: 400px;" />
     </div>
     <div style="display: block;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=frederick-abichahine&theme=radical" alt="Streak Stats" style="height: 180px; width: 400px;" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shourouknoureldine&theme=radical" alt="Streak Stats" style="height: 180px; width: 400px;" />
     </div>
 </div>
