@@ -1,6 +1,6 @@
-</--### Hi there 👋-->
 
-<h1 align="center">Hello World, I'm Frederick Abi Chahine <img align="center" width="7%" alt="wave" src="Assets/wave.gif"></h1>
+
+<h1 align="center">Hello World, I'm Shourouk Nour El Dine <img align="center" width="7%" alt="wave" src="Assets/wave.gif"></h1>
 <h3 align="center"> <img align="center" width="5%" alt="r_arrow" src="Assets/right_arrow.gif">  Seeking & Spilling Knowledge  <img align="center" width="5%" alt="l_arrow" src="Assets/left_arrow.gif"></h3>
 <img align="center" width="100%" height="300" alt="Coding" src="Assets/glitchy_neuron.gif">
 
@@ -18,12 +18,12 @@
 ### <img align="center" width="5%" alt="programmer" src="Assets/programmer.gif"> My interests:
 <hr>
 
-<img align="center" width="3%" alt="one" src="Assets/one.gif"> Machine Leaning / Deep Learning <br/>
-<img align="center" width="3%" alt="two" src="Assets/two.gif"> Data Science / Network Science <br/>
-<img align="center" width="3%" alt="three" src="Assets/three.gif"> Computational Neuroscience <br/>
-<img align="center" width="3%" alt="four" src="Assets/four.gif"> Computational Immunology <br/>
-<img align="center" width="3%" alt="five" src="Assets/five.gif"> Full-Stack Web Development <br/>
-<img align="center" width="3%" alt="six" src="Assets/six.gif"> *and more...*
+<img align="center" width="3%" alt="one" src="Assets/one.gif"> Full-Stack Web Development <br/>
+<img align="center" width="3%" alt="two" src="Assets/two.gif"> Machine Leaning  <br/>
+<img align="center" width="3%" alt="three" src="Assets/three.gif"> Data analysis <br/>
+<img align="center" width="3%" alt="four" src="Assets/four.gif"> Software engineer <br/>
+<img align="center" width="3%" alt="five" src="Assets/five.gif"> *and more...*<br/>
+
 
 ### <img align="center" width="5%" alt="network" src="Assets/network.gif"> Reach out & connect with me to share & discuss inovative ideas:
 <hr>
@@ -34,8 +34,7 @@
 <a href="https://www.hackerrank.com/freddyabichahine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="freddyabichahine" height="30" width="40" /></a>
 </p>
 
-**frederickabichahine@gmail.com** | **frederick.abichahine@lau.edu**
-
+**shourouknoureldine@gmail.com** 
 ### <img align="center" width="5%" alt="gear" src="Assets/program.gif"> Languages:
 <hr>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
